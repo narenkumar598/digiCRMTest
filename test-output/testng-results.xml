@@ -5,23 +5,23 @@
       <![CDATA[Contacts Page Header:Contacts]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="33070" started-at="2020-02-01T08:31:21Z" finished-at="2020-02-01T08:31:54Z">
+  <suite name="Default suite" duration-ms="38359" started-at="2020-02-08T07:43:36Z" finished-at="2020-02-08T07:44:14Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="33070" started-at="2020-02-01T08:31:21Z" finished-at="2020-02-01T08:31:54Z">
+    <test name="Default test" duration-ms="38359" started-at="2020-02-08T07:43:36Z" finished-at="2020-02-08T07:44:14Z">
       <class name="com.digiCRMTest.autoqa.testcases.ContactsPageTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.digiCRMTest.autoqa.testcases.ContactsPageTest@f6c48ac]" name="setUp" is-config="true" duration-ms="31738" started-at="2020-02-01T08:31:21Z" finished-at="2020-02-01T08:31:52Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.digiCRMTest.autoqa.testcases.ContactsPageTest@f6c48ac]" name="setUp" is-config="true" duration-ms="35868" started-at="2020-02-08T07:43:36Z" finished-at="2020-02-08T07:44:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="contactsPageTitleTest()[pri:0, instance:com.digiCRMTest.autoqa.testcases.ContactsPageTest@f6c48ac]" name="contactsPageTitleTest" duration-ms="293" started-at="2020-02-01T08:31:52Z" finished-at="2020-02-01T08:31:53Z">
+        <test-method status="PASS" signature="contactsPageTitleTest()[pri:0, instance:com.digiCRMTest.autoqa.testcases.ContactsPageTest@f6c48ac]" name="contactsPageTitleTest" duration-ms="901" started-at="2020-02-08T07:44:12Z" finished-at="2020-02-08T07:44:12Z">
           <reporter-output>
             <line>
               <![CDATA[Contacts Page Header:Contacts]]>
             </line>
           </reporter-output>
         </test-method> <!-- contactsPageTitleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.digiCRMTest.autoqa.testcases.ContactsPageTest@f6c48ac]" name="tearDown" is-config="true" duration-ms="972" started-at="2020-02-01T08:31:53Z" finished-at="2020-02-01T08:31:54Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.digiCRMTest.autoqa.testcases.ContactsPageTest@f6c48ac]" name="tearDown" is-config="true" duration-ms="1440" started-at="2020-02-08T07:44:13Z" finished-at="2020-02-08T07:44:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
